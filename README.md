@@ -1,16 +1,7 @@
 # capsulas_perso_data
 
-A new Flutter project.
+- Base para usar datas personalizadas.
 
-## Getting Started
+## Image
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1660927202](https://user-images.githubusercontent.com/80997263/185670715-e27e412a-6985-4d7e-b634-4acf45aa6898.png)
